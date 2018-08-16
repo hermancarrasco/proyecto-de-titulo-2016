@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+#contenidocbt {
+	height: 27cm;
+	width: 21.6cm;
+	background-color: #FFF;
+	background-repeat: no-repeat;
+}
+#titulo_izq {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+}
+#giros {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#direccion {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+#superior {
+	width:21cm;
+	height:3cm;
+}
+#superior_izq {
+	float:left;
+}
+#superior_der {
+	border:5px solid #000;
+	margin-left:13cm;
+	margin-top:0.5cm;
+}
+#cuadro_der {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:19px;
+	font-weight:bold;
+}
+#centro_informacion {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-top:2cm;
+	height:12cm;
+	
+}
+#intermedio_detalle {
+	border:0.1cm solid #000;
+	margin-left:0.5cm;
+	margin-right:0.5cm;
+	height:13cm;
+	border-radius: 0.5cm;
+	
+}
+#estilo_detalle {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+}
+#centro_informacion {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	
+}
+#subtitulo {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	
+}
+#subtitulo2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	
+	
+}
+#imagen_corp{
+	float:right;
+}
+#datosUsuario{
+	margin-left: 1cm;
+	margin-bottom: 0.3cm;
+}

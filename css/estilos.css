@@ -1,0 +1,75 @@
+
+/*index*/
+#nav-lipigas{
+	background: #ffd65e; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffd65e 50%, #febf04 81%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#ffd65e), color-stop(81%,#febf04)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffd65e 50%,#febf04 81%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffd65e 50%,#febf04 81%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffd65e 50%,#febf04 81%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffd65e 50%,#febf04 81%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd65e', endColorstr='#febf04',GradientType=0 ); /* IE6-9 */
+	border: 0px;
+	border-radius: 0px;
+}
+#nav-lipigas .navbar-collapse .navbar-nav .active a{
+	background: #ffc578; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffc578 0%, #fb9d23 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffc578), color-stop(100%,#fb9d23)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffc578 0%,#fb9d23 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffc578 0%,#fb9d23 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffc578 0%,#fb9d23 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffc578 0%,#fb9d23 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc578', endColorstr='#fb9d23',GradientType=0 ); /* IE6-9 */
+}
+#principal{
+}
+
+#entorno_cliente{
+	background: url('../img/fondo_final.jpg') repeat fixed top center;
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(50, 50, 50, 0.67);
+    -moz-box-shadow:    0px 0px 11px 0px rgba(50, 50, 50, 0.67);
+    box-shadow:         0px 0px 11px 0px rgba(50, 50, 50, 0.67);
+}
+#acerca_de{
+	background: transparent;
+    border-bottom: #ececec 1px solid;
+   
+}
+
+.container .fomrulario-lipigas{
+	padding:30px;
+	background-color: #E2DCDC;
+}
+
+
+ /*Registro lipigas */
+#principal-registro{
+   background: url('../img/maxresdefault.jpg') repeat fixed top center; 
+}
+
+#principal-registro .head-registro{
+    background-color: rgb(255, 239, 50);
+}
+
+
+.registro-lipigas{
+    padding:30px;
+    background-color: #ECECEC;
+    background-color: rgba(255,255,255,.8);
+}
+
+
+/*solicita gas*/
+
+#formulario-solicita{
+    background: url('../img/lipigas.jpg') repeat fixed left top; 
+}
+#solicita-gas .head-registro{
+    background-color: rgb(255, 239, 50);
+}
+
+#formulario-solicita .registro-lipigas .contenedor-gas{
+    border:rgb(255, 239, 50) 10px solid;
+    border-radius:10px;
+}
